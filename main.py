@@ -1,5 +1,7 @@
 from cmu_graphics import *
 
-Rect(100, 100, 100, 100, fill='red')
+
+Rect(0, 0, 400, 400, fill='lightblue')
+
 
 cmu_graphics.run()
